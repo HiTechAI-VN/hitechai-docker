@@ -4,7 +4,7 @@
     "codeBaseName": "vscode-docker",
     "tsaStamp": "DevDiv",
     "notificationAliases": [
-        "DockerToolsTeam@microsoft.com"
+        "DockerToolsTeam@hitechcloud.vn"
     ],
     "instanceUrl": "https://devdiv.visualstudio.com",
     "projectName": "DevDiv",
